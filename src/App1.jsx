@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App"> 
       <header className="App-header">
         <h1>First React Project</h1>
         <img src={logo} className="App-logo" alt="logo" />
